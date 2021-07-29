@@ -1,9 +1,31 @@
+
 .header-bg{
     background-color: #264653;
+}
+.text-color{
+    color:  #e0e0e0c0;
+
 }
 .cbr-link{
     background-color: #E76F51;
 }
 .orange-text{
     color: #E76F51;
+}
+.custom-bike{
+ text-align: center;
+ margin:5rem 0;
+}
+.filled{
+    color: #E76F51;
+   
+}
+.empty{
+    color: #E76F51;
+}
+.name-plate{
+    color: #23A6F0;
+}
+.scale{
+    filter: grayscale(100%);
 }
